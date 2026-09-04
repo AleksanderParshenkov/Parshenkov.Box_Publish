@@ -1,5 +1,5 @@
 {
-  "latest": "1.0.42",
+  "latest": "1.0.43",
   "versions": [
     {
       "version": "1.0.35",
@@ -28,6 +28,10 @@
     {
       "version": "1.0.42",
       "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Publish/releases/download/Parshenkov.Box-v1.0.42/Parshenkov.Box_Setup_1.0.42.exe"
+    },
+    {
+      "version": "1.0.43",
+      "downloadUrl": "https://github.com/AleksanderParshenkov/Parshenkov.Box_Publish/releases/download/Parshenkov.Box-v1.0.43/Parshenkov.Box_Setup_1.0.43.exe"
     }
   ]
 }
